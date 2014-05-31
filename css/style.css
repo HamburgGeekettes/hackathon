@@ -331,6 +331,13 @@ a:hover {
 	text-shadow: none;
 }
 
+a.special {
+	color: white;
+	background-color: white;
+	text-decoration: none;
+	text-shadow: none;
+}
+
 .yellow-bg {
 	background-color: #fffdd2;
 	color: #343434;
